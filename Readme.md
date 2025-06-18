@@ -8,4 +8,16 @@ It is hard to get a software job in 2025. However, rather than letting that be a
 
 ## What are the skills?
 
-- 
+- Advanced technical skills
+- Understanding software architecture
+- Project managment
+- Teamwork
+- Analytical thinking
+- SQL query writing and analysis
+- Critical
+- Documenting application process
+- Troubleshooting
+- Programming experience
+- Expertise in multiple programming languages
+- Commitment to CI/CD and rigorous testing
+- Knowledge of automation and emerging technologies
