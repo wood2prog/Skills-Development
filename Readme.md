@@ -11,13 +11,36 @@ It is hard to get a software job in 2025. However, rather than letting that be a
 - Advanced technical skills
 - Understanding software architecture
 - Project managment
+    - correct prioritization
+    - handle escalations correctly
+    - can understand what the user wants
+    - can estimate accurately
+    - is consistent
+
 - Teamwork
+    - can negotiate
+    - can teach
+    - can lead
+
 - Analytical thinking
+    - can solve problems
+    - is flexible
+
 - SQL query writing and analysis
-- Critical
+- Critical thinking
+    - Anticipate failure signals
+
 - Documenting application process
 - Troubleshooting
 - Programming experience
+    - Maintainable code
+    - understands algorithms
+    - can express an idea in code regardless of the programming language
+
 - Expertise in multiple programming languages
 - Commitment to CI/CD and rigorous testing
 - Knowledge of automation and emerging technologies
+
+## Links
+
+https://www.lokajittikayatray.com/post/senior-developer-must-have-skills
